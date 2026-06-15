@@ -12,7 +12,7 @@
         <meta name="author" content="Pablo Lopez Nieto">
       
       
-        <link rel="canonical" href="https://github.com/pablolopeznie/splyne-docs/architecture/state_management/">
+        <link rel="canonical" href="https://github.com/pablolopeznie/splyne/architecture/state_management/">
       
       
         <link rel="prev" href="../overview/">
@@ -2001,6 +2001,18 @@
 <td><code>False</code></td>
 <td><code>bool</code></td>
 <td>Tracks whether the clean samplesheet has been produced after fastp trimming.</td>
+</tr>
+<tr>
+<td><code>current_fastp</code></td>
+<td><code>None</code></td>
+<td><code>str \| None</code></td>
+<td>Tracks the current sample name to make it persistent to st.rerun().</td>
+</tr>
+<tr>
+<td><code>clean_paths</code></td>
+<td><code>None</code></td>
+<td><code>tuple \| None</code></td>
+<td>Tracks the definitive paths to fastp-filtered reads to make them persistent to st.rerun().</td>
 </tr>
 </tbody>
 </table>

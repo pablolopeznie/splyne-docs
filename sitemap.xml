@@ -1,95 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/faq/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/faq/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/getting_started/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/getting_started/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/glossary/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/glossary/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/architecture/job_manager/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/architecture/job_manager/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/architecture/overview/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/architecture/overview/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/architecture/run_registry/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/architecture/run_registry/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/architecture/state_management/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/architecture/state_management/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/architecture/workflow_engine/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/architecture/workflow_engine/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/installation/genomic_refs/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/installation/genomic_refs/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/installation/installation/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/installation/installation/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/operations/runtime/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/operations/runtime/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/operations/troubleshooting/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/operations/troubleshooting/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/results/filtering_logic/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/results/filtering_logic/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/results/stored_results/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/results/stored_results/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/ui/pages/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/ui/pages/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/ui/streamlit_overview/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/ui/streamlit_overview/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/workflows/dea/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/workflows/dea/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/workflows/input/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/workflows/input/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/workflows/qc/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/workflows/qc/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/workflows/rnafusion/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/workflows/rnafusion/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/workflows/rnasplice/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/workflows/rnasplice/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
-         <loc>https://github.com/pablolopeznie/splyne-docs/workflows/rnavar/</loc>
-         <lastmod>2026-06-02</lastmod>
+         <loc>https://github.com/pablolopeznie/splyne/workflows/rnavar/</loc>
+         <lastmod>2026-06-15</lastmod>
     </url>
 </urlset>
